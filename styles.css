@@ -112,7 +112,7 @@ a{
 
 a:hover{
 	opacity: 2.5;
-/* 	font-size: 80%; */
+	font-size: 80%;
 	font-weight: bolder;
 
 }
@@ -131,6 +131,12 @@ a:hover{
 	margin-left:10px;
 	margin-right:10px;
     }
+	a:hover{
+	opacity: 2.5;
+	font-weight: bolder;
+
+}
+	
 
     
 
