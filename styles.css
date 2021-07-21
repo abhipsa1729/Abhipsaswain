@@ -133,6 +133,9 @@ a:hover{
 	margin-left:10px;
 	margin-right:10px;
     }
+	body{
+		overflow:hidden;
+	}
 /* 	a:hover{
 	opacity: 2.5;
 	font-weight: bolder; */
